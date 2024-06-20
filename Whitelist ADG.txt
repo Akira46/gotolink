@@ -1,0 +1,17 @@
+@@||google.com
+@@||youtube.com
+@@||googleapis.com
+@@||gvt1.com
+@@||msftconnecttest.com
+@@||gstatic.com
+@@||spotify.com
+@@||facebook.com
+@@||epicgames.com
+@@||styles.redditmedia.com^
+@@||www.redditstatic.com^
+@@||reddit.map.fastly.net^
+@@||www.redditmedia.com^
+@@||reddit-uploaded-media.s3-accelerate.amazonaws.com^
+@@/[a-z]\.thumbs\.redditmedia\.com/
+@@/(\.|^)redd\.it$/
+@@/(\.|^)reddit\.com$/
