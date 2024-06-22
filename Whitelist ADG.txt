@@ -1,6 +1,7 @@
 @@||google.com^
 @@||youtube.com^
 @@||googleapis.com^
+@@||getgrass.io^
 @@||gvt1.com^
 @@||msftconnecttest.com^
 @@||gstatic.com^
