@@ -26,3 +26,4 @@
 @@||mobile.twitter.com^
 @@/(\.|^)twimg\.com$/
 @@||plumenetwork.xyz^
+@@||disqus.com^
